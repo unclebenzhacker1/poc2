@@ -1,18 +1,2 @@
-<html>
-	<head></head>
-	<body>
-		<something:script xmlns:something="http://www.w3.org/1999/xhtml"></something:script>
-
-		<info>
-		  <name>
-		    <value><![CDATA[<script>alert(document.domain)</script>]]></value>
-		  </name>
-		    <description>
-		      <value>Hello</value>
-		    </description>
-		    <url>
-		      <value>UncleBenz</value>
-		    </url>
-		</info>
-	</body>
-</html>
+<?xml version="1.0"?>
+<script xmlns="http://w3.org/1999/xhtml><![CDATA[alert('1');]]></script>
