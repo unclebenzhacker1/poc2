@@ -1,0 +1,13 @@
+<html>
+	<head></head>
+	<body>
+		<something:script xmlns:something="http://www.w3.org/1999/xhtml">alert('XSS')</something:script>
+
+		<info>
+		  <name>
+		    <value>UncleBenz!</value>
+		  </name>
+		  
+		</info>
+	</body>
+</html>
