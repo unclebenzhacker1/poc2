@@ -15,7 +15,7 @@ http://b.scorecardresearch.com/b?C1=1&C2=6000003&C3=0000000200500000197000000&C4
 <TrackingEvents> </TrackingEvents>
 <VideoClicks>
 <ClickThrough id="scanscout">
-<![CDATA[ http://www.target.com ]]>
+  HELLO
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
