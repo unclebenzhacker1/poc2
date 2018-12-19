@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<!DOCTYPE foo [  
-<!ELEMENT foo (#ANY)>
+<!DOCTYPE ClickThrough [  
+<!ELEMENT ClickThrough (#ANY)>
 <!ENTITY xxe SYSTEM "https://jira.ouroath.com">]>
 <Ad id="preroll-1">
 <InLine>
