@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE ClickThrough [  
+<!ELEMENT ClickThrough (#ANY)>
+<!ENTITY xxe SYSTEM "https://jira.ouroath.com">]>
+<VAST>
+<Ad id="preroll-1">
+<InLine>
+<VideoClicks>
+<ClickThrough id="scanscout">
+ hello
+</ClickThrough>
+</VideoClicks>
+</InLine>
+</Ad>
+</VAST>
